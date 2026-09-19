@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+octa_coc/reports/*.pdf
+octa_coc/logs/
+octa_coc/anchors/
+.DS_Store
+octa_coc/tests/
